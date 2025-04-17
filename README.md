@@ -4,4 +4,4 @@
 
 [tokenizer_v2.py](tokenizer_v2.py): The class for the custom tokenizer
 
-[whisper.py](whisper.py): The default implementation of running Whisper using the transformers library
+[whisper.py](whisper.py): The default implementation for running Whisper using the transformers library
